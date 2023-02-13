@@ -1,0 +1,19 @@
+body {
+  overflow-x: hidden;
+}
+.Toastify {
+  z-index: 1072;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+.content .Toastify__toast,
+.Toastify .Toastify__toast-container {
+  z-index: 1060;
+}
+.st0 {
+  fill: #007acc;
+}
+.st1 {
+  fill: #fff;
+}
